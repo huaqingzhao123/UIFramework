@@ -1,0 +1,14 @@
+using WingjoyFramework.UIFramework.Runtime.Views;
+
+
+public partial class Store_FruitConfirmPanelGeneralWindowGroup : WingjoyFramework.UIFramework.Runtime.Views.BaseGroup
+{
+    
+    public override void Init()
+    {
+    }
+    
+    public void LogicAction()
+    {
+    }
+}
